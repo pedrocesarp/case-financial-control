@@ -15,7 +15,7 @@ O objetivo foi criar um aplicativo de controle de finanças pessoais.
 - 🎨 Layout
 - 🛠️ Tecnologias Utilizadas
 - 📚 Bibliotecas Utilizadas
-- 👨‍💻 Desenvolvedores
+- 👨‍💻 Desenvolvedor
 
 <h1>
     <p style="font-weight: bold;">🎯 Objetivo do projeto</p>
